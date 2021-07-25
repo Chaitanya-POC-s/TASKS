@@ -1,8 +1,6 @@
 ﻿
 
 # Some Considerations 
-
-# To Test Nested Objectr i have used Object.Json File as the sample . This is the IMDS response which is a complex nested json file
 # To use -NoProxy have to use Powershell version 5 and above
 
 
